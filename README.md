@@ -2,6 +2,6 @@
 
 ### How To Use
 - Clone this repo on your device
-- ```npm install``` into 'root' folder
+- ```docker-compose up``` into 'root' folder
 - Go to http://localhost:3000
 
